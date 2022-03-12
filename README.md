@@ -10,7 +10,6 @@ O Alura E-Commerce do Brasil é o projeto do curso "Power BI Desktop: tratamento
   <li>Qual a forma preferida de pagamento.</li>
   <li>A evolução dos pedidos.</li>
   <li>A quantidade de pedidos por categoria.</li>
-  <li>Visualizar em quais bairros tem mais cliente e faturamento.</li>
  </ul>
  
  <a href="https://app.powerbi.com/reportEmbed?reportId=a6d575c7-6e95-49f9-b1b5-e5a3213d4534&autoAuth=true&ctid=8e123a37-3744-4839-b542-42a08d32388b&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D">Link Dashboard</a>
